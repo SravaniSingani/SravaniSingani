@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there! 👋 
+## I am Sravani Singani, a Web Development student in Toronto, Canada.
+-----
 
-<!--
-**SravaniSingani/SravaniSingani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About:
+- 💻  I’m currently learning Java Script, C#, MySQL, HTML and CSS
+- 💡  I am familiar with core C, C++, Java and Python
+- 🎨 I'm also learning design on Figma and Adobe Illustrator
+----
+### Projects:
+- Currently working on re-designing an existing website using figma
