@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-## I am Sravani Singani, a Web Development student in Toronto, Canada.
+### I am Sravani Singani, a Web Development student in Toronto, Canada.
 -----
 
 ### About:
