@@ -21,6 +21,8 @@ These are some of the technologies and tools that I work with:
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SravaniSingani&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SravaniSingani&layout=compact&theme=radical)
+
 ## 📫 Connect with Me
 Let's connect and chat! You can find me on:
 
